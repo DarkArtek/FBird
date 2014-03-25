@@ -63,7 +63,7 @@ public class ScoresServlet extends HttpServlet {
                     .getConnection(
                             "jdbc:"
                             + "sqlserver://127.0.0.1;"
-                            + "instanceName=TABRIS_SQLSERVER;"
+                            + "instanceName=SQLSERVER;"
                             + "databaseName=FlappyBird;"
                             + "user=flappybird;password=flappybird;");
             
