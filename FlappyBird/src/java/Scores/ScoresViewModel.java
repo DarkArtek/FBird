@@ -8,7 +8,7 @@ package Scores;
 
 /**
  *
- * @author Tabris
+ * @author Artek
  */
 public class ScoresViewModel {
     public String username;
